@@ -2,8 +2,10 @@
 body {
     padding-top: 54px;
     background-image: url('../img/body.jpg');
+    /*
     animation: movimiento 40s infinite linear alternate;
     background-attachment: fixed;
+    */
 }
 
 @keyframes movimiento{
